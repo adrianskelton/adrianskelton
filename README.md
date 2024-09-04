@@ -1,5 +1,6 @@
-# 💫 About Me:
-I have a passion for photography and programming. Soon to be finished with my full stack course I am looking for employment in the Linköping area. 
+# Hello, World:
+
+Hi Hi, I'm Adrian, a Junior Fullstack Developer from Sweden, currenly looking for remote employment and on-site near Linköping, Sweden. I have a passion for creating, coming from a photography background ![SeeLife.se](https://www.seelife.se) and also with a background in construction and a passion for the environment I also created ![HempMonster.com](https://www.hempmonster.com)
 
 
 # 💻 Tech Stack:
