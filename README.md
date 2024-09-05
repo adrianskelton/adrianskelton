@@ -1,6 +1,6 @@
 ### Hello, World:
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="drawing" width="50"/>
 Hi, I'm Adrian, a Junior Fullstack Developer from Sweden, currently looking for remote employment and on-site opportunities near Linköping, Sweden. I have a passion for creating, coming from a photography background 📷 SeeLife.se, and with a background in construction and a passion for the environment, I also created 🌳 HempMonster.com which promotes carbon neutrality in the building industry using the latest technologies in hempcrete and biobased building methods.
 
 
