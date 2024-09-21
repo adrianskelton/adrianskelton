@@ -1,7 +1,9 @@
 ### Hello, World:
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="drawing" width="50"/>
-Hi, I'm Adrian, a Junior Fullstack Developer from Sweden, currently looking for remote employment and on-site opportunities near Linköping, Sweden. I have a passion for creating, coming from a photography background 📷 <a href="http://www.seelife.se" target="_blank">SeeLife.se</a>, and with a background in construction and a passion for the environment, I also created 🌳 <a href="http://www.hempmonster.com" target="_blank">HempMonster.com</a> which promotes carbon neutrality in the building industry using the latest technologies in hempcrete and biobased building methods.
+Hi, I'm Adrian, a Junior Fullstack Developer from Sweden, currently looking for remote employment and on-site opportunities near Linköping, Sweden. Currenly I am working as an intern with Globy AI 👊
+
+I have a passion for creating, coming from a photography background 📷 <a href="http://www.seelife.se" target="_blank">SeeLife.se</a>, and with a background in construction and a passion for the environment, I also created 🌳 <a href="http://www.hempmonster.com" target="_blank">HempMonster.com</a> which promotes carbon neutrality in the building industry using the latest technologies in hempcrete and biobased building methods.
 
 
 ### 💻 Tech Stack:
