@@ -6,7 +6,8 @@ Hi, I'm Adrian, a Junior Fullstack Developer from the sleepy beautiful town of V
 I have a passion for creating, coming from a photography background 📷 <a href="http://www.seelife.se" target="_blank">SeeLife.se</a>, and with a background in construction and a passion for the environment, I also created 🌳 <a href="http://www.hempmonster.com" target="_blank">HempMonster.com</a> which promotes carbon neutrality in the building industry using the latest technologies in hempcrete and biobased building methods.
 <br><br>
  💻 Tech Stack:
-<br><br>
+<br><br
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -22,5 +23,6 @@ I have a passion for creating, coming from a photography background 📷 <a href
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
 <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+</div>
 
 
